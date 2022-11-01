@@ -17,4 +17,4 @@ I like Cloud Computing and DevOps.
 
 ## My Github Stats 😉
 
-![alt text](https://github-readme-stats.vercel.app/api?username=AryanMukerji&theme=tokyonight&show_icons=true&locale=en)
+![MyStats](https://github-readme-stats.vercel.app/api?username=AryanMukerji&theme=tokyonight&show_icons=true&locale=en)
